@@ -2,6 +2,8 @@
 
 データサイエンス100本ノック（構造化データ加工編）
 
+**完結済み**
+
 ## Files
 
 - `content/100knocks-preprocess/docker/work/preprocess_knock_Python.ipynb`: Polarsを使った回答例
